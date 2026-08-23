@@ -5,12 +5,12 @@ class MikrotikTui < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/hafuta/mikrotik-tui/releases/download/v0.3.1/mikrotik-tui-macos-arm64.tar.gz"
-      sha256 "4dad05caffb5c592c134116c9963aab2c1b28c6bbeec88b2b6835ec9c90fc4ff"
+      url "https://github.com/hafuta/mikrotik-tui/releases/download/v0.4.0/mikrotik-tui-macos-arm64.tar.gz"
+      sha256 "68a02890dd7b52a0d7cec64078119e097bcfb9e2ad6bb745d6aef19388ef5a78"
     end
     on_intel do
-      url "https://github.com/hafuta/mikrotik-tui/releases/download/v0.3.1/mikrotik-tui-macos-amd64.tar.gz"
-      sha256 "28b479420203992d1d66530b4e1043a8067a98f62451bdc4c6a505993418074d"
+      url "https://github.com/hafuta/mikrotik-tui/releases/download/v0.4.0/mikrotik-tui-macos-amd64.tar.gz"
+      sha256 "7f38dfac418f8203954f8b03ec0ef17e2ee02e182b64dd890892e2b0bef7534e"
     end
   end
 
