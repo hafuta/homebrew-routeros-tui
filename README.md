@@ -1,8 +1,8 @@
-# Homebrew tap for MikroTik TUI
+# Homebrew tap for RouterOS TUI
 
 ```sh
-brew tap hafuta/mikrotik-tui
-brew install mikrotik-tui
+brew tap hafuta/routeros-tui
+brew install routeros-tui
 ```
 
-Source: [hafuta/mikrotik-tui](https://github.com/hafuta/mikrotik-tui).
+Source: [hafuta/routeros-tui](https://github.com/hafuta/routeros-tui).
