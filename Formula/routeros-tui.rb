@@ -5,12 +5,12 @@ class RouterosTui < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/hafuta/routeros-tui/releases/download/v0.9.0/routeros-tui-macos-arm64.tar.gz"
-      sha256 "d76ad2ec300bec6c41bde00cbbf2eaa9b3c803fc727ea08faf6bc3b7b138030a"
+      url "https://github.com/hafuta/routeros-tui/releases/download/v0.9.1/routeros-tui-macos-arm64.tar.gz"
+      sha256 "c86e0b801977822554acbd835744ec8b69e8f4f64c1f6331c5824dec006e7748"
     end
     on_intel do
-      url "https://github.com/hafuta/routeros-tui/releases/download/v0.9.0/routeros-tui-macos-amd64.tar.gz"
-      sha256 "f6f137b17ad58114dd332eb58b6a351375ad5ac82835d1a3df71987af2631d65"
+      url "https://github.com/hafuta/routeros-tui/releases/download/v0.9.1/routeros-tui-macos-amd64.tar.gz"
+      sha256 "0d334f53d3a272b363ac9c285dec47c94acc1cf1422b3921887c4e8b754a38ba"
     end
   end
 
